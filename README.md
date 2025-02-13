@@ -1,1 +1,1 @@
-Alla uppgifters koder samt dess rapport som krävdes för att få betygsteg C i kursen Algoritmer och datastrukturer (ID1021). Dessa koder behandlar framför allt hur olika effektivitets tester kan utföras för att förbättra och effektivisera kod. 
+Alla uppgifters koder samt dess rapport som krävdes för att få betygsteg C i kursen Algoritmer och datastrukturer (ID1021). Dessa koder behandlar framför allt hur olika effektivitets tester kan utföras för att förbättra och effektivisera kod. För att exekvera koden används visual studio code. 
