@@ -1,1 +1,2 @@
-Alla uppgifters koder samt dess rapport som krävdes för att få betygsteg C i kursen Algoritmer och datastrukturer (ID1021). Dessa koder behandlar framför allt hur olika effektivitets tester kan utföras för att förbättra och effektivisera kod. För att exekvera koden används visual studio code. 
+Detta repository innehåller kod och rapporter från kursen Algoritmer och datastrukturer (ID1021) på KTH. Uppgifterna fokuserar på att analysera och optimera algoritmers effektivitet genom olika prestandatester. Genom att jämföra tidskomplexitet och köra experiment utvärderas lösningars prestanda för att identifiera förbättringsmöjligheter. Koden är skriven i C och kan köras med en C-kompilator, exempelvis GCC, i Visual Studio Code eller en annan kompatibel utvecklingsmiljö.
+
